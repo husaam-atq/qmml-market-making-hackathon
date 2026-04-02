@@ -60,9 +60,10 @@ We finished just shy of the top 10.
 
 ## Results
 
-- Strong pricing performance across most stocks  
-- Good edge in high-confidence rounds  
-- Main limitation: conservative position sizing in early rounds  
+- Maintained competitive pricing performance across all 9 rounds
+- Strategy robustness driven by uncertainty-aware spread control
+- Final ranking just outside the top 10 in a competitive field
+- Identified position sizing as the main driver of missed P&L
 
 ---
 
@@ -72,6 +73,8 @@ We finished just shy of the top 10.
 - Stronger execution under pressure  
 - More structured performance attribution  
 - Additional testing of quote aggressiveness  
+
+---
 
 ## Contributors
 
