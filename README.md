@@ -73,6 +73,12 @@ We finished just shy of the top 10.
 - More structured performance attribution  
 - Additional testing of quote aggressiveness  
 
+## Contributors
+
+- Husaam Ateeq  
+- Hanad Ali  
+- Blazej Olszta  
+- Abdallah Ramadan
 ---
 
 ## Notes
