@@ -4,9 +4,9 @@ Machine learning-based market making strategy developed for the Queen Mary Unive
 
 ## Competition snapshot
 
-![Leaderboard](assets:leaderboard.jpeg)
+![Leaderboard](assets/leaderboard.jpeg)
 
-![Event](assets:event_photo.jpeg)
+![Event](assets/event_photo.jpeg)
 
 ---
 
