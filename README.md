@@ -41,10 +41,9 @@ We finished just shy of the top 10.
 
 ## Repository structure
 
-- `notebooks/` — final hackathon notebook  
-- `docs/` — competition playbook  
-- `assets/` — screenshots and visuals  
-- `outputs/` — generated predictions and quotes  
+- `notebook/` — final hackathon notebook  
+- `docs/` — competition playbook and generated predictions/quotes  
+- `assets/` — screenshots and visuals    
 
 ---
 
